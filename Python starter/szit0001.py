@@ -1,0 +1,6 @@
+print ("Muk Dániel")
+print ("    @ ")
+print ("   @@@ ")
+print ("  @@@@@ ")
+print (" @@@@@@@ ")
+print ("@@@@@@@@@ ")
